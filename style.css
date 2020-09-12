@@ -78,6 +78,8 @@ li {
 /* Contents List */
 .contents__container {
     padding-left: 0;
+    height: 600px;
+    overflow-y: scroll;
 }
 
 .contents__container img {
@@ -94,4 +96,8 @@ li {
     border-radius: var(--size-border-redius);
     background-color: var(--color-white);
     color: var(--color-black);
+}
+
+.content__item .invisible {
+    display: none;
 }
