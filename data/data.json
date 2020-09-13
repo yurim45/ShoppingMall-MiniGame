@@ -49,7 +49,6 @@
       "color": "pink",
       "image": "../imgs/pink_s.png"
     },
-    
     {
       "type": "pants",
       "gender": "male",
@@ -92,7 +91,7 @@
       "color": "yellow",
       "image": "../imgs/yellow_s.png"
     },
-        {
+    {
       "type": "tshirt",
       "gender": "male",
       "size": "large",
@@ -112,7 +111,7 @@
       "size": "small",
       "color": "blue",
       "image": "../imgs/blue_t.png"
-    }
+    },
     {
       "type": "pants",
       "gender": "male",
